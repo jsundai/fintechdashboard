@@ -1,0 +1,19 @@
+#root {
+  background-color: #222831;
+}
+
+.ms-Nav{
+  background-color: white;
+}
+
+.ms-Grid-col {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.ms-Viewport {
+  margin: 0 1.5%;
+}
+.ms-FocusZone {
+  padding: 0;
+}

@@ -86,11 +86,6 @@ const styles = {
                 <Card.Item>
                   <Text styles={styles.amount}>{card.amount}</Text>
                 </Card.Item>
-                <Card.Item>
-                  <Text styles={styles.percentage}>
-                    {card.percentage} %
-                  </Text>
-                </Card.Item>
               </Card.Section>
             </Card>
           </div>

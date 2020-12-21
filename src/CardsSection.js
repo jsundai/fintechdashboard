@@ -71,20 +71,7 @@ const styles = {
       amount: '$15,245',
       icon: 'Savings',
       percentage: '1.3'
-    }, 
-    {
-        title: 'Bitcoin (BTC) ',
-        amount: '$9,785.95',
-        icon: 'Savings',
-        percentage: '1 BTC'
-    }, 
-    {
-        title: 'Ether (ETH)',
-        amount: '$1019.55',
-        icon: 'Savings',
-        percentage: '5 ETH'
-    }  
-
+    }
   ]
 
   const CardsSection = () => {

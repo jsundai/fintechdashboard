@@ -57,20 +57,17 @@ const styles = {
     {
       title: 'Current Balance',
       amount: '$23,545',
-      icon: 'Money',
-      percentage: '2.3',
+      icon: 'Money'
     },
     {
       title: 'Current Expenses',
       amount: '$12,034',
-      icon: 'PaymentCard',
-      percentage: '0.3'
+      icon: 'PaymentCard'
     },
     {
       title: 'Current Income',
       amount: '$15,245',
-      icon: 'Savings',
-      percentage: '1.3'
+      icon: 'Savings'
     }
   ]
 
